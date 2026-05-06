@@ -1,0 +1,164 @@
+MASTER ANCHORS WORKFLOW
+INSTRUCTIONS
+Run in order (SETUP → ANCHORS).
+SETUP
+STEP 1. SUBJECT IDENTITY
+(Do this once before starting)
+SUBJECT DEMOGRAPHICS, IDENTITY KEY CHARACTERISTICS AND BODY STATS:
+Sex: female
+Age: 32
+Ethnicity: Italian
+Skin tone: warm olive skin
+Hair color: dark chestnut
+Hair style: wavy
+Eyes shape: soft almond eyes
+Eye color: deep brown
+Eyebrows: full, slightly arched, naturally groomed
+Freckles: none
+Face Shape: oval
+Jawline: soft/rounded
+Cheekbones: moderately high, subtle
+Nose Shape: straight (Greek), slightly prominent bridge
+Lips: medium full, defined cupid's bow
+Body type: lean athletic, naturally proportioned
+Height: 5'6"
+Chest/Bust: 34B
+Waist: 27"
+Inseam: 30"
+Body Fat Percentage: 22%
+
+STEP 2. WARDROBE BLOCKS
+Female
+Tops
+	•	Simple, minimalist, form-fitting microfiber neutral color crop tank top.
+	•	Wearing Simple, minimalist, form-fitting microfiber neutral color tube top bandeau
+	•	Simple, minimalist, form-fitting microfiber neutral color spaghetti strap tank top.
+	•	Simple, minimalist, ultra-soft, thin, white crop tank top with raw cut edges/seams.
+	•	Simple neutral color soft thin triangle swimwear top with thin straps.
+	•	Simple, minimalist, form-fitting microfiber black color spaghetti strap tank top.
+Bottoms
+	•	Matching neutral color form-fitting, 1-inch inseam mini microfiber shorts, low rise.
+	•	Tight designer low-rise jeans.
+	•	Micro-mini light wash denim skirt.
+	•	Matching swimwear v-shape bottoms with thin strap, v-cut.
+	•	Tight designer low-rise black jeans.
+Footwear
+	•	4 inch black stilettos.
+	•	Barefoot.
+	•	Neutral colored 9060 sneakers.
+
+Male
+Tops
+	•	Bare Torso: Top is completely bare (no shirt) to reveal structure.
+	•	Slim-Fit Tee: Form-fitting neutral colored slim-fit t-shirt.
+	•	Ribbed Tank: White fitted ribbed cotton tank top.
+	•	Muscle Tee: White semi-loose sleeveless t-shirt with raw cut seams and 90s style short hem.
+	•	Black Crewneck: Black crewneck t-shirt.
+Bottoms
+	•	Raw Denim: Dark raw denim straight-leg fit jeans.
+	•	Tailored Shorts: Matching neutral colored form-fitting 5 inch inseam shorts.
+	•	Light Wash Jeans: Low-rise light wash designer denim jeans.
+	•	Baggy Sweatpants: Light grey baggy oversized sweatpants.
+	•	Black Denim: Black straight-leg denim jeans.
+Footwear
+	•	Neutral colored 9060 sneakers.
+	•	Barefoot.
+	•	Light brown worn Leather Boat Shoes.
+
+
+STEP 3. GLOBAL LINE
+(prepend to every new generation – copy & paste as is):
+Ultra-realistic IMG models agency casting digitals. (Close-up headshot:1.5). Exact 1:1 facial identity, bone structure, and anatomical consistency with the reference image.
+High-end "Model-Off-Duty" aesthetic, impeccable natural grooming. Hydrated glass skin, satin finish, visible pores, soft peach fuzz. Replicate all reference scars, freckles, and moles exactly. Seamless complexion across face, neck, and body. Consistent skeletal build.
+Match reference environment perfectly: seamless matte light-gray background, no vignette. Bright even lighting, lifted shadows, neutral 5800K color grading. Full-frame DSLR, 50mm lens. Straight-on camera angle, slightly below eye-level.
+[PASTE HERE: SUBJECT DEMOGRAPHICS, IDENTITY KEY CHARACTERISTICS AND BODY STATS AS DEFINED FROM STEP 1]
+
+ANCHORS
+INSTRUCTIONS
+PREPEND to every new shot the following, in this order.
+	•	Global Line from step 3 
+	•	Your subject’s identity from step 1
+	•	The shot prompt
+
+Only add the wardrobe block that is visible for that shot, e.g., when generating a portrait, only add the ‘Top’ wardrobe description, whereas when you generate a mid shot, include both the Top and Bottom. Only add footwear description when generating full body shots.
+
+FACE ANCHOR
+Instructions: First adjust all input values, then copy & paste.
+PROMPT
+Ultra realistic agency model caliber casting headshot, straight on, shoulders square to camera.
+
+Subject Demographics:
+Sex: [INPUT e.g., male or female]
+Age: [INPUT e.g., 19)
+Ethnicity: [INPUT e.g., russian, sudanese, scandinavian, american etc.]
+Skin tone: [INPUT e.g., porcelain, dark, mixed, tan]
+Hair color: [INPUT e.g., black, blonde, light pink, etc.]
+Hair style: [INPUT e.g., long straight with center part]
+Eyes shape: [INPUT e.g., thin almond shape, monolids, wide-set eyes]
+Eye color: [INPUT e.g., icy blue, hazel etc.]
+Face Shape: [INPUT e.g., oval, square, heart, diamond]
+Jawline: [INPUT e.g., sharp/chiseled, soft/rounded, strong/pronounced, receding/weak]
+Cheekbones: [INPUT e.g., high, low, wide, prominent, flat/sunken, laterally flared, snatched]
+Nose Shape: [INPUT e.g., straight (greek), prominent roman, small, button/snub, nubian, celestial, east asia flat etc.]
+Lips:  [INPUT e.g., large full lips with lip lift and cupid’s bow]
+Body type: [INPUT e.g., bikini supermodel, athletic toned, plus size]
+Eyebrows: [brushed eyebrows]
+Freckles: [few natural freckles]
+
+Casting Details:
+Casting For: {gucci, prada}
+Tone: {high fashion, runway, supermodel, IMG model}
+Wardrobe: {none, no visible wardrobe}
+
+Clean face, no makeup look except invisible grooming. Natural brows, natural lashes, natural lip color. 
+Realistic high frequency skin detail with visible pores, freckles, tiny blemishes and unevenness. 
+Do not perfect the skin. Do not smooth the skin. Keep subtle under eye texture and natural asymmetry in the face.
+
+No dramatic hair shine, no extra glam.
+
+Framing and pose: tight headshot, below chin and above head, no visible wardrobe.
+Subject stands tall with spine straight, shoulders perfectly level and square to camera, head straight, no tilt. 
+Long model neck relaxed and elongated. Expression neutral but strong, calm, steady, no smile. 
+Eyes looking directly into the camera.
+
+Background: bright light grey seamless paper wall.
+No texture, no pattern, no vignettes, no props, no corners of room. 
+Background must feel like a clean casting studio wall.
+
+Lighting: direct on-camera flash or slightly off axis front flash, sharp honest light that shows every detail in the skin. 
+Shadows fall directly behind the model on the wall, barely visible. 
+Highlights can be slightly hot on forehead, nose and cheeks, exactly like a real flash photo. 
+Do not use cinematic lighting. Do not use soft glam beauty lighting. No backlight halo.
+
+Camera and render: looks like a real full frame DSLR or mirrorless camera portrait. 
+Lens around 70 to 85mm equivalent, aperture around f8 so the entire face and shoulders are sharp. 
+Sensor ratio 3 by 4 vertical. 
+Very subtle realistic sensor noise, not completely noiseless. 
+No depth of field blur on the face, keep both eyes and ears in focus.
+
+Color and grade: neutral daylight color balance, 5800k, no stylized grading. 
+natural skin tone, no strong saturation.
+Do not add film filters, halation, glow, lens flares or bokeh.
+
+Overall directive: it must look like an honest unretouched img model agency digital for a casting director, not a beauty campaign and not an AI illustration.
+
+Absolutely no CGI look, no painterly softness, no perfect plastic features, no overly symmetrical fake face.
+
+
+PORTRAIT ANCHOR
+Attachments: Face Anchor ONLY. (shot prompt, copy & paste)
+STRICT FRAMING: Straight-on casting portrait framed from upper stomach to just above the top of the head, with negative space above head. No cropping of the head. 
+SUBJECT POSE: Shoulders square to camera, neutral expression, eyes looking directly at camera.
+WARDROBE: Wearing [paste top wardrobe block only].
+
+MID SHOT ANCHOR
+Attachments: Face Anchor + Portrait Anchor (shot prompt, copy & paste)
+STRICT FRAMING: Straight-on mid-shot framed strictly from just below the knees up to above the head.
+SUBJECT POSE: Relaxed casting stance, shoulders square to camera, arms naturally by side, hands natural, neutral expression.
+WARDROBE: Torso matching source portrait image exactly: wearing [paste top wardrobe block only]. Wearing bottoms: [paste bottom wardrobe block here].
+
+FULL BODY ANCHOR
+Attachments: Face Anchor + Portrait Anchor + Mid Shot Anchor (shot prompt, copy & paste)
+STRICT FRAMING: Straight-on full body shot framed strictly from just below the feet up to above the head. Small margin of negative space below feet and above head. No cropping of head or feat.
+SUBJECT POSE: Relaxed casting stance, shoulders square to camera, arms naturally by side, hands natural, neutral expression, gazing directly into camera.
+WARDROBE: Torso matching source portrait image exactly, wearing [paste top wardrobe block only]. Bottoms matching source mid shot anchor exactly, wearing [paste bottom wardrobe block here]. And wearing  [paste footwear block here].

@@ -1,0 +1,26 @@
+MASTER SCENE BUILDER WORKFLOW
+INSTRUCTIONS
+Note: This is a view-only file. If you need to edit, please go to File > Make a Copy
+Step 1: Jump Into Nano Banana Pro Here
+Step 2: Upload Your Anchor Images To help the AI correctly weigh the visual data, upload your three reference images in this exact order:
+	•	Location Master: The background and environment.
+	•	Outfit Anchor: The full-body shot showing the wardrobe and styling.
+	•	Face Anchor: The close-up shot for character identity and likeness.
+Step 3: Paste the Master Prompt Copy the "Direct Master Prompt" from the document below and paste it into the Nano Banana Pro text box.
+Step 4: Choose Your Tone Of Voice (The Snippet) Decide on the creative direction for your shoot: Editorial (dynamic/posed) or Lookbook (neutral/clean). Copy your chosen snippet and paste it directly over the INSERT CHOSEN SNIPPET HERE text inside the Master Prompt.
+Step 5: Generate! Hit enter and let the engine do the rest.
+
+The Tone of Voice Snippets
+Option A: The Editorial Snippet
+The style is high-end editorial luxury fashion. The subject must be dynamically and kinetically posed, interacting naturally with the spatial elements or props of the location. Use asymmetrical posing, physical tension, and dramatic body angles tailored to amplify the movement of the outfit and the mood of the environment. Strictly avoid generic, stiff, or neutral e-commerce poses.
+Option B: The Lookbook Snippet
+The style is a premium luxury brand lookbook. The pose must be grounded, elevated, and neutral, utilizing professional modeling techniques (e.g., slight contrapposto stance, relaxed shoulders, natural hand placement) to ensure pristine, unobstructed garment visibility and complete silhouette clarity. The location serves only as complementary context. Strictly avoid overly dynamic, theatrical, obscured, or hyper-editorial poses.
+Master Prompt
+Generate a photorealistic, campaign-ready fashion photography image by seamlessly synthesizing the provided reference images. Do not simply composite or copy-paste the subject; calculate the spatial geometry of the location and ground the subject organically within the environment.
+Follow these strict reference constraints:
+1. Environment & Lighting (Location Master): Use this exact location, background, perspective, and depth of field. Extract the exact lighting setup (directional light, ambient bounce, shadow mapping, color temperature) and apply it flawlessly to the subject.
+2. Wardrobe & Body (Full Body Anchor): Maintain the exact anatomical proportions of the subject. Recreate the precise wardrobe items, fabric textures, draping, layering, and accessories with zero deviation.
+3. Identity (Face Anchor): Maintain perfect character consistency. Recreate this exact facial geometry, likeness, skin texture, and hairstyle.
+Creative Direction & Pose:
+INSERT CHOSEN SNIPPET HERE
+Technical Specifications: Render at Vogue-tier New York City fashion campaign quality. Highly detailed, photorealistic, cinematic lighting, sharp focus on the subject, perfect spatial integration.

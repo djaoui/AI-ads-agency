@@ -1,0 +1,38 @@
+Note: This is a view-only file, do not request access. Instead, go to: File > Make a Copy
+CREATE HERE: Nano Banana Pro inside Higgsfield AI
+POST YOUR CASTING FOR FEEDBACK: House of AI community
+
+↓ V1 ALPHA FACE ANCHOR - ‘PROMPT ONLY’
+Replace [here] with your model’s subject demographics.
+NOTE: This prompt is designed for use without reference images.
+Generate a clean, ultra realistic casting headshot of a [sex], around [age] years old, with [ethnicity] ethnicity, [skin tone] skin tone, [hair color] hair color, [hair style] hair style, [eye color] eye color, and [1 to 3 distinctive traits].
+
+Straight-on headshot. Camera centered to the face. Head straight. Shoulders square. Neutral expression. Mouth relaxed and closed. Eyes looking directly into the lens.
+
+Tight vertical 3:4 composition with the full head visible and only a little neck. No visible wardrobe. No jewelry. No distracting accessories.
+
+Seamless light grey background. Direct flash or slight off-axis front flash. Clean, sharp, honest lighting with natural skin texture, visible pores, and realistic facial detail.
+
+Hair should look natural and casting ready. Skin should look real, high resolution, and believable, not plastic or overly perfect.
+
+Real full-frame camera portrait. 85mm lens look. Eye-level camera. Entire face sharp and in focus. Neutral daylight color. Ultra high resolution.
+
+Keep the result natural, believable, and human. Not glam. Not cinematic. Not editorial. Not CGI. Not overly retouched. Not overly symmetrical.
+↓ V2 ALPHA FACE ANCHOR - ‘PROMPT + REFERENCE’ 
+Upload 1 very clear face shot of your subject.
+Use the attached image as facial and likeness direction and preserve the same person’s identity 1:1.
+
+Generate a clean, ultra realistic casting headshot that keeps the subject’s face shape, eye shape, nose, lips, jawline, skin tone, hairline, hair color, hairstyle, and distinctive traits consistent with the reference.
+
+Straight-on headshot. Camera centered to the face. Head straight. Shoulders square. Neutral expression. Mouth relaxed and closed. Eyes looking directly into the lens.
+
+Tight vertical 3:4 composition with the full head visible and only a little neck. No visible wardrobe. No jewelry unless it feels identity relevant. No distracting accessories.
+
+Seamless light grey background. Direct flash or slight off-axis front flash. Clean, sharp, honest lighting with natural skin texture, visible pores, and realistic facial detail.
+
+Skin should look real and high resolution, not plastic or overly perfect. Hair should look natural and believable.
+
+Real full-frame camera portrait. 85mm lens look. Eye-level camera. Entire face sharp and in focus. Neutral daylight color. Ultra high resolution.
+
+Keep the result natural, believable, and true to the reference. Not glam. Not cinematic. Not editorial. Not CGI. Not overly retouched. Do not change the person into a more generic or more perfect face.
+

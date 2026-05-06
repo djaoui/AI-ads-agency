@@ -1,0 +1,44 @@
+STYLING MASTER PROMPT
+GLOBAL LINE
+ Style a full body casting image in-studio, for a luxury e-commerce/lookbook image. Composite the provided [Wardrobe and any Accessory References] onto the [Body Anchor] while strictly maintaining the facial features and character likeness of the [Face Anchor].
+
+Goal is a seamless, photorealistic fashion styling image where the output subject/model looks exactly like the anchor images and the clothing and accessories worn by the subject match exactly that of the wardrobe and accessory photos attached.
+
+The Inputs and Reference Attachments:
+Image 1 (Face Anchor): 100% Source of Identity. (High weight on facial structure, jawline, face shape, cheekbones, eye color, eye shape, hair color, hair style, eyebrows, nose shape, lips shape, and every freckle, blemish and skin texture perfectly transferred).
+
+Image 2 (Body Anchor): Source of Anatomy, absolute truth for body type, body shape, body proportions (ignore the fashion worn in this anchor, it should only be used as a reference for how clothes fit the model).
+
+Image 3 (Wardrobe Packshots): Source of absolute truth for the outfit, what the model should be wearing, and any accessories. (High weight on fabric, color, fit, logo if seen, cut, silhouette).
+
+Lighting and Background: Preserve the identical bright and even large softbox lighting (luxury e-commerce) and the plain, light grey, evenly lit background, with no gradients or vignettes, same as that from source image 1 and 2.
+
+Strict Crop and Framing: Full body image, head to toe, with slight margin above the head and below the feet, the head and feet should not be cropped at all.
+
+Strict Pose of Subject: The subject is standing tall and straight, hands naturally by subject’s side, shoulders and hips square to the camera, looking directly at camera with neutral expression, pose befitting of luxury e-commerce / lookbook image.
+
+
+Wardrobe and Accessories:
+Item 1: [INSERT description here, the brand, product name, product type, color, material, fit]
+Item 2: …
+Item 3: …
+e.g., MiniDress: AURELA HOXHA Glowform Dress, made of crystal beads, form fitting  ____________________________________________________________________________________________
+
+USED FOR AGS
+
+Style a full body casting image in-studio, for a luxury e-commerce/lookbook image. Composite the provided [Wardrobe and any Accessory References] onto the [Body Anchor] while strictly maintaining the facial features and character likeness of the [Face Anchor].
+Goal is a seamless, photorealistic fashion styling image where the output subject/model looks exactly like the anchor images and the clothing and accessories worn by the subject match exactly that of the wardrobe and accessory photos attached.
+
+The Inputs and Reference Attachments:
+Image 1 (Face Anchor): 100% Source of Identity. (High weight on facial structure, jawline, face shape, cheekbones, eye color, eye shape, hair color, hair style, eyebrows, nose shape, lips shape, and every freckle, blemish and skin texture perfectly transferred).
+Image 2 (Body Anchor): Source of Anatomy, absolute truth for body type, body shape, body proportions (ignore the fashion worn in this anchor, it should only be used as a reference for how clothes fit the model).
+Image 3, 4, 5, 6, 7 (Wardrobe Packshots): Source of absolute truth for the outfit, what the model should be wearing, and any accessories. (High weight on fabric, color, fit, logo if seen, cut, silhouette).
+Lighting and Background: Preserve the identical bright and even large softbox lighting (luxury e-commerce) and the plain, light grey, evenly lit background, with no gradients or vignettes, same as that from source image 1 and 2.
+Strict Crop and Framing: Full body image, head to toe, with slight margin above the head and below the feet, the head and feet should not be cropped at all.
+Strict Pose of Subject: The subject is standing tall and straight, hands naturally by subject's side, shoulders and hips square to the camera, looking directly at camera with neutral expression, pose befitting of luxury e-commerce / lookbook image.
+
+Wardrobe and Accessories:
+Item 1 - ZimmermannDress.jpg : ZIMMERMANN Rebellion Tuck Midi Dress, 100% linen, blue botanical floral print, thin adjustable straps, draped tuck pleat at bust, full flared midi skirt below the knee
+Item 2 - Loewe.webp : LOEWE Small Basket Bag, handwoven palm leaf, natural beige/straw, calfskin top handles, structured bucket silhouette, held in right hand at mid-thigh
+Item 3 - JenniferFisherHoops.jpg : JENNIFER FISHER 2" Samira Hoops, oversized thin circular hoops, polished gold-plated brass, worn on both ears
+Item 4 - Eleftheria_top.webp and Eleftheria_side.webp : ANCIENT GREEK SANDALS Eleftheria, natural tan vegetable-tanned leather, fine triple-braided straps wrapping toe and foot, flat sole, champagne wing buckle detail

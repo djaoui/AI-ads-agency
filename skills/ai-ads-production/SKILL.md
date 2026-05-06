@@ -1,4 +1,24 @@
 ---
+
+## 🎬 STAGED PIPELINE (face → styling → location → scene) — ALWAYS RUN IN ORDER
+
+For any ad needing character + scene fidelity, follow `/prompt-library/` steps in order BEFORE building start frames or submitting Seedance:
+
+1. **ALPHA FACE ANCHOR** — single hero portrait, neutral context, locks identity
+2. **MASTER ANCHORS WORKFLOW** — combine face + body + product into canonical anchor set
+3. **CASTING DIRECTOR** — codify character archetype + demographic + attitude
+4. **STYLING MASTER** — wardrobe per state (NY-state, SBH-state, hotel-state etc.) — solves wardrobe drift
+5. **LOCATION CLEANING** — generate clean location plate without subjects
+6. **MASTER SCENE BUILDER** — compose per-cut SFs from anchors above
+9. **CHARACTER CONSISTENCY** — verify before any video generation
+11. **NEXT SHOT MODE** — proper extension to subsequent shots
+
+**Skipping steps 3-4-9 = guaranteed wardrobe / identity drift across cuts. Verified failure pattern.**
+
+Each step has its own prompt template in `/prompt-library/`. Use those as the canonical exact-text source. Use this SKILL.md for the workflow-level rules below.
+
+---
+
 name: AI Ads Production Skill — Master SOP
 description: Portable consolidated playbook for AI-generated paid social and brand ads. Two-pass workflow, format fingerprints, post-production rules, model selection, pricing, and validated workarounds for known failure modes. Survives device loss via iCloud sync. Source of truth.
 version: 2026-05-06

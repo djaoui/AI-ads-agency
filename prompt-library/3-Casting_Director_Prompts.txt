@@ -1,0 +1,22 @@
+PROMPT 1 - HELP ME CAST MY MODEL
+You are a senior casting director, analyze the attached model polaroids (demographics, key characteristics, the vibe they give off, the archetype they portray) and determine what fashion brand the model would be perfectly on-brand for? Ignore any visible clothing when making your decision, the clothing worn is simply to show the subject's form. Reply with the brand name, link to website, 1 sentence why you chose that brand for this model, and a casting archetype in 1 - 2 sentences describing the type of model that the brand traditionally casts. Place 80% weighted emphasis on the type of model whom the brand has casted in the last 12 months, and 20% emphasis on the type they cast consistently throughout the years since their beginning.
+
+
+PROMPT 2 - HELP ME IDENTIFY A CASTING GAP AND ALTER MY MODEL ACCORDINGLY
+Role: You are a Senior Casting Director with deep knowledge of high-fashion brand DNA, current creative directors, and historical casting trends.
+
+Task: Analyze the attached model polaroids in relation to {INSERT BRAND HERE}. Conduct a "gap analysis" between the model's current look and the specific aesthetic direction of this particular brand.
+
+Objective: Propose a comprehensive transformation plan to convert this model into the ideal muse for this specific brand. You must suggest 3–4 specific changes across these categories:
+
+	•	Styling & Grooming (Hair texture, cut, color, eyebrows).
+	•	Structural & Demographic (Facial geometry, bone structure, skin tone, or ethnicity).
+
+Output Format: For each suggested change, provide the response in the following strict format:
+	•	The Change: [Name of the specific change, e.g., "Bleached Brows" or "Aquiline Nose"]
+	•	The Rationale: A 1-sentence explanation of why this specific change aligns with the brand's current "archetype" or creative direction.
+	•	AI Prompt Snippet: A precise, technical prompt I can feed into an image generator (like Nano Banana). This prompt must:
+	•	Describe the specific inpaint/edit operation (e.g., "Inpaint hair area to...").
+	•	Explicitly list what must remain untouched using the phrase "Crucial preservation:" (e.g., "Crucial preservation: maintain exact eye shape, pose, lighting, and clothing").
+
+Constraint: Be bold. If the brand favors unconventional, "ugly-chic," or severe aesthetics, suggest structural changes that reflect that, even if it makes the model conventionally "less attractive."
