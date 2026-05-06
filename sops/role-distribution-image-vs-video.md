@@ -46,3 +46,10 @@ With per-cut start frames carrying visuals, the Seedance prompt shrinks to:
 4. Submit Seedance with all SFs as references + lean per-shot prompt
 5. Run mechanical QA + Creative Director filter
 6. If a shot has a SCENE-LEVEL defect → regenerate THAT start frame, not the video
+
+## Where brand guardrails live
+
+Confirmed by user: **brand-bible enforcement happens primarily at the start-frame stage, not in the video prompt.** Atmosphere, environment cleanliness, character composure, palette, mood — all encoded in the SF. The video prompt only enforces motion-level guardrails (visible agents, no ghost physics, dialogue tempo). This means:
+- The Bible-Builder agent's most important downstream consumer is the **NB Pro start-frame prompt writer**, not the Seedance prompt writer
+- If a video output violates the Bible visually, the fix is upstream at the SF, not at the video prompt
+- Per-cut SFs let you inspect and approve each shot's brand compliance BEFORE spending video credits
