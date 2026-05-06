@@ -1,15 +1,0 @@
-Prompt 1
-
-Starting from the reference headshot, capture a straight-on fashion image, cropped at her knee, matching the location and pose of the second reference. model 1 is wearing the same fur coat as image 2, she is instead wearing white thin v shape bikini bottoms. The subject maintains identical facial structure, neutral expression hairstyle of image 1 – same lighting of image 2, but a bit brighter.
-
-Prompt 2
-
-Starting from the reference headshot, capture a straight-on, low angle fashion image cropped mid thigh. wearing a minimal silk triangle bikini top and matching silk minimal thin strap v shape bikini bottoms. The subject maintains identical facial structure, neutral expression hairstyle – soft natural curls framing the face. Background is deep blue gradient sky. Posed with one hand on her hip with weight to that hip, other leg out in a pose of editorial fashion attitude. She has the other hand held up in a fingers snapping pose. She maintains direct eye contact with camera. Lighting is soft and even, late afternoon.
-
-Prompt 3
-
-Starting from the reference headshot, capture a straight-on fashion image, cropped at her ankles, matching the location and fashion of second reference. The subject maintains identical facial structure, neutral expression hairstyle of image 1 – same lighting and color grading of image 2. She is posed with arms crossed, weight to one hip in a pose of editorial attitude, shoulders square to camera. One side of her long hair has just been cut by invisible scissors into a bob haircut while the other side maintains its length.
-
-Prompt 4
-
-Starting from the reference headshot, capture a straight-on fashion image, full body, matching the outfit of image 2. Replace her footwear with pink nike snowboard boots. She is posed with her weight on one hip with the opposite leg bent slightly in a casual fashion pose, arms by her side. She stands atop a snow covered mountain top with mountains in the background and deep blue sky. The subject maintains identical facial structure, neutral expression, hairstyle of image 1 – lighting is bright afternoon sun.
